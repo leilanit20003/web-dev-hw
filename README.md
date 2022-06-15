@@ -1,2 +1,1 @@
-# web-dev-hw
-d
+# Lani Terry's web-dev-hw
